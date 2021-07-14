@@ -1,4 +1,4 @@
-# taller-web-personales-wia
+# Taller de páginas web personales - WIA CR
 Repositorio para el taller de páginas webs personales para WIA CR
 
 ## Sesión 1
