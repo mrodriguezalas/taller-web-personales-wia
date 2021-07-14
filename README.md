@@ -43,5 +43,5 @@ Repositorio para el taller de páginas webs personales para WIA CR
 - Ejercicios y espacio de práctica - 20 minutos
 
 ## Recursos
-- [Mozilla Devs[(https://developer.mozilla.org/en-US/docs/Web)
+- [Mozilla Devs](https://developer.mozilla.org/en-US/docs/Web)
 - [Code Academy](https://www.codecademy.com/)
