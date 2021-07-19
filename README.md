@@ -2,6 +2,7 @@
 Repositorio para el taller de páginas webs personales para WIA CR
 
 ## Sesión 1
+- [Presentación para Sesión 1](https://docs.google.com/presentation/d/1AgLV8KVT5W3lQFAZyPp3t8rF5EZ8MYyrsj1a6vt69VE/edit?usp=sharing)
 - Introducción
 - ¿Por qué quisiera una web personal?
 - Tipos de páginas personales: "Industria vs Academia"
