@@ -30,14 +30,11 @@ Repositorio para el taller de páginas webs personales para WIA CR
 - Espacio de práctica (20 minutos)
 
 ## Sesión 2
+- [Presentación para la Sesión 2](https://docs.google.com/presentation/d/1StBxGGlAYA3CztmKJIjBZ57i5ljWJ11_kGyo9o9FIHU/edit?usp=sharing)
 - Prerequisitos para la siguiente sección
 - Opciones para IDE
 - Instalación three.js
 - Conceptos básicos
-- Canvas
-- Escena
-- Render
-- Cámara
 - Ejemplo simple - 10 minutos
 - Ejercicios y espacio de práctica - 20 minutes
 - Interfaz con HTML y CSS
@@ -46,3 +43,4 @@ Repositorio para el taller de páginas webs personales para WIA CR
 ## Recursos
 - [Mozilla Devs](https://developer.mozilla.org/en-US/docs/Web)
 - [Code Academy](https://www.codecademy.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
